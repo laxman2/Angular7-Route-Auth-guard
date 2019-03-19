@@ -1,4 +1,4 @@
-# Angular 7 - Demo for angular7 routes
+# Angular 7 - Demo for routes
 # Student Management
 ### Created By [Laxman Kanhere]
 
