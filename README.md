@@ -1,4 +1,4 @@
-# Angular 7 - Demo CRUD Application / Project for Beginners
+# Angular 7 - Demo for angular7 routes
 # Student Management
 ### Created By [Laxman Kanhere]
 
